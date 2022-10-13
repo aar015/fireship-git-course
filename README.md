@@ -1,3 +1,3 @@
 # Fireship git course
 
-Follow along with fireship course
+This line creates a merge conflict
